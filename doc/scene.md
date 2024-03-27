@@ -1,1 +1,1 @@
-![alt text](/img/scene.png)
+![alt text](/doc/img/scene.png)
